@@ -1,5 +1,8 @@
 # BYOPC
-
+https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 This food website is designed to get food recipe from different parts of India.
 The project help to maintain the customer record by sign in. 
 It is an online system through which customers can view available recipe, sign up and view profile. 
@@ -27,7 +30,9 @@ It is developed using ASP.NET, Visual Basics .Net, HTML, CSS, and JS technologie
 <h3>Recipe Page</h3>
 <img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/Recipe1.jpg"></img>
 <img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/Recipe2.jpg"></img>
-
+<br />
+<hr>
+<br/>
 <h2>Admin Site</h2>
 <h3>HomePage</h3>
 <img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/AdminHome.jpg"></img>
