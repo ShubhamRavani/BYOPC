@@ -11,23 +11,29 @@ It is developed using ASP.NET, Visual Basics .Net, HTML, CSS, and JS technologie
 
 <h2>User Site</h2>
 <h3>HomePage</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/1Home1.png"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/Home.jpg"></img>
 
-<h3>TechnologyPage</h3>
-<img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/2Technology.png"></img>
-<h3>SportsPage</h3>
-<img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/3Sports.png"></img>
-<h3>BusinessPage</h3>
-<img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/4Business.png"></img>
-<h3>EntertainmentPage</h3>
-<img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/5Entertainment.png"></img>
-<h3>HealthPage</h3>
-<img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/6Health.png"></img>
-<h3>SciencePage</h3>
-<img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/7Science.png"></img>
-<h3>ContactUsPage</h3>
-<img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/8ContactUs.png"></img>
-<img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/8ContactUs2.png"></img>
+<h3>AboutUs Page</h3>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/About.jpg"></img>
+
+<h3>LoginPage</h3>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/Login.jpg"></img>
+
+<h3>SignUp Page</h3>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/SignUp.jpg"></img>
+
+<h3>ForgetPasswords Page</h3>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/ForgetPass.jpg"></img>
+
+<h3>UserAccount Page</h3>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/UserAccount.jpg"></img>
+
+<h3>Contact Page</h3>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/Contact.jpg"></img>
+
+<h3>Recipe Page</h3>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/Recipe1.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/Recipe2.jpg"></img>
 
 
 
