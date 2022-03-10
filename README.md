@@ -15,40 +15,41 @@ It is developed using ASP.NET, Visual Basics .Net, HTML, CSS, and JS technologie
 
 <h2>User Site</h2>
 <h3>HomePage</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/Home.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/Home.jpg"></img>
 <h3>AboutUs Page</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/About.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/About.jpg"></img>
+
 <h3>LoginPage</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/Login.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/Login.jpg"></img>
 <h3>SignUp Page</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/SignUp.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/SignUp.jpg"></img>
 <h3>ForgetPasswords Page</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/ForgetPass.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/ForgetPass.jpg"></img>
 <h3>UserAccount Page</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/UserAccount.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/UserAccount.jpg"></img>
 <h3>Contact Page</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/Contact.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/Contact.jpg"></img>
 <h3>Recipe Page</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/Recipe1.jpg"></img>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/Recipe2.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/Recipe1.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/Recipe2.jpg"></img>
 <br />
 <hr>
 <hr>
 <br/>
 <h2>Admin Site</h2>
 <h3>HomePage</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/AdminHome.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/AdminHome.jpg"></img>
 <h3>LoginPage</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/AdminLogin.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/AdminLogin.jpg"></img>
 <h3>ForgetPasswords Page</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/AdminForget.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/AdminForget.jpg"></img>
 <h3>AdminAccount Page</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/AdminAccount.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/AdminAccount.jpg"></img>
 <h3>Add/Insert Recipe Page</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/AddRecipe.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/AddRecipe.jpg"></img>
 <h3>ManageRecipe Page</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/ManageRecipe.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/ManageRecipe.jpg"></img>
 <h3>ManageContact Page</h3>
-<img src="https://github.com/ShubhamRavani/BYOPC/blob/master/Snapshot/ManageContact.jpg"></img>
+<img src="https://github.com/ShubhamRavani/BYOPC/blob/208f42925da9bec256a273fda449de55c8c55693/Snapshot/ManageContact.jpg"></img>
 
 
